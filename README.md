@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nguyen Duc Anh</h1>
+<h3 align="center">Software Engineer from Ha Noi, Vietnam 🇻🇳</h3>
 
-<!--
-**ducanhdangcode/ducanhdangcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ducanhdangcode&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 💻 Software Engineer passionate about **Web Development**
+- 🔧 Working with **Java, Spring Boot, React**
+- 🌱 Exploring **AI, Machine Learning & Geospatial Systems**
+- 🎯 Goal: Build scalable and impactful software systems
+
+---
+
+### 🛠 Tech Stack
+**Backend:** Java, Spring Boot, .NET
+
+**Frontend:** React, JavaScript, TailwindCSS
+
+**Database:** MySQL, PostgreSQL, MongoDB  
+
+**Tools:** Docker, Git, Linux  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ducanhdangcode&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ducanhdangcode&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌐 Connect with me
+<p>
+<a href="https://www.linkedin.com/in/anh-nguyen-duc-a996a12a6/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
+</a>
+</p>
